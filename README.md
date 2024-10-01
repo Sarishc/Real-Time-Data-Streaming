@@ -62,8 +62,5 @@ The project is designed with the following components:
     docker-compose up
     ```
 
-For more detailed instructions, please check out the video tutorial linked below.
-
-## Watch the Video Tutorial
 
 
